@@ -100,3 +100,27 @@ Mã hóa có thể là khó hiểu nhưng chúng chính là những gì máy hi�
 Có nhiều ngôn ngữ lập trình hay các cách phát triển game bằng những công cụ khác nhau, hãy thực hành nó trên những ngôn ngữ lập trình hoặc công cụ phát triển trò chơi mà bạn hiểu rõ.
 Chọn ảnh sprite có độ phân giải cao và loại bỏ nền sprite rõ ràng hơn, có thể làm cho hình ảnh trò chơi của chúng tôi trông đẹp hơn.
 Thiết kế logic trò chơi phức tạp hơn có thể tăng tính toàn vẹn trò chơi. Từ ví dụ, nền thay đổi theo thời gian, khoảng cách giữa các cột trở nên ngẫu nhiên.
+
+######
+
+
+Trong suốt khóa học, chúng ta sẽ bắt đầu từ những khái niệm cơ bản về trò chơi Flappy Bird và cách nó hoạt động. Sau đó, bạn sẽ được hướng dẫn cách sử dụng các khối lệnh trong Blockly để tạo ra các phần khác nhau của trò chơi, từ việc điều khiển con chim, xử lý va chạm, tính điểm đến việc tạo hiệu ứng âm thanh và hình ảnh.
+
+Chúng ta sẽ không chỉ tập trung vào việc tạo ra trò chơi hoàn chỉnh mà còn cung cấp cho bạn cái nhìn sâu hơn về quá trình phát triển trò chơi và cách chia nhỏ nhiệm vụ thành các khối lệnh hợp lý. Sau khi hoàn thành khóa học, bạn sẽ có một trò chơi Flappy Bird tự tạo của riêng bạn và kiến thức cơ bản về lập trình game sử dụng công cụ trực quan Blockly.
+
+###FAQ:
+**Vì sao sử dụng Blockly?**
+Blockly là một công cụ lập trình trực quan giúp bạn tạo mã bằng cách kéo và thả các khối lệnh. Điều này giúp loại bỏ gánh nặng của việc phải nhớ cú pháp lập trình và tập trung vào ý tưởng và logic. Chúng tôi chọn sử dụng Blockly vì nó là cách tuyệt vời để giúp người học mới tiếp cận lập trình một cách dễ dàng và thú vị mà không cần đầu tư quá nhiều thời gian vào việc học cú pháp mã lệnh.
+**Vì sao sử dụng Flappy bird?**
+Chúng tôi chọn sử dụng trò chơi Flappy Bird để hướng dẫn về lập trình vì nó là một trò chơi đơn giản nhưng vô cùng thú vị. Flappy Bird đòi hỏi người chơi phải sử dụng các nguyên tắc cơ bản của lập trình như xử lý sự kiện, xử lý đồ họa, và quản lý trạng thái để có thể điều khiển con chim bay qua các ống.
+Thông qua việc phát triển trò chơi Flappy Bird, học sinh có thể:
+- Hiểu cách áp dụng kiến thức lập trình vào việc tạo ra một trò chơi hoàn chỉnh.
+- Nắm vững các khái niệm cơ bản như xử lý sự kiện, vẽ đồ họa, xử lý va chạm và tích hợp âm thanh.
+- Thực hành các kỹ năng lập trình một cách thực tế và thú vị.
+- Học cách giải quyết vấn đề và logic thông qua việc thiết kế các chức năng trong trò chơi.
+**Vì sao?**
+
+**Hành trình của bạn trong khóa học:**
+
+
+
