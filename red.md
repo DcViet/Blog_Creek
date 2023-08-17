@@ -101,13 +101,6 @@ Có nhiều ngôn ngữ lập trình hay các cách phát triển game bằng nh
 Chọn ảnh sprite có độ phân giải cao và loại bỏ nền sprite rõ ràng hơn, có thể làm cho hình ảnh trò chơi của chúng tôi trông đẹp hơn.
 Thiết kế logic trò chơi phức tạp hơn có thể tăng tính toàn vẹn trò chơi. Từ ví dụ, nền thay đổi theo thời gian, khoảng cách giữa các cột trở nên ngẫu nhiên.
 
-######
-
-
-Trong suốt khóa học, chúng ta sẽ bắt đầu từ những khái niệm cơ bản về trò chơi Flappy Bird và cách nó hoạt động. Sau đó, bạn sẽ được hướng dẫn cách sử dụng các khối lệnh trong Blockly để tạo ra các phần khác nhau của trò chơi, từ việc điều khiển con chim, xử lý va chạm, tính điểm đến việc tạo hiệu ứng âm thanh và hình ảnh.
-
-Chúng ta sẽ không chỉ tập trung vào việc tạo ra trò chơi hoàn chỉnh mà còn cung cấp cho bạn cái nhìn sâu hơn về quá trình phát triển trò chơi và cách chia nhỏ nhiệm vụ thành các khối lệnh hợp lý. Sau khi hoàn thành khóa học, bạn sẽ có một trò chơi Flappy Bird tự tạo của riêng bạn và kiến thức cơ bản về lập trình game sử dụng công cụ trực quan Blockly.
-
 ###FAQ:
 **Vì sao sử dụng Blockly?**
 Blockly là một công cụ lập trình trực quan giúp bạn tạo mã bằng cách kéo và thả các khối lệnh. Điều này giúp loại bỏ gánh nặng của việc phải nhớ cú pháp lập trình và tập trung vào ý tưởng và logic. Chúng tôi chọn sử dụng Blockly vì nó là cách tuyệt vời để giúp người học mới tiếp cận lập trình một cách dễ dàng và thú vị mà không cần đầu tư quá nhiều thời gian vào việc học cú pháp mã lệnh.
