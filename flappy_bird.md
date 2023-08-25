@@ -1,4 +1,4 @@
-#Flappy bird
+#Flappy bird https://docs.google.com/presentation/d/1y7K20vJRz4UjcwAdH02AQcGmS0OtvMA0/edit#slide=id.g23be2d9e8df_0_0
 [Flappy Bird](https://studio.code.org/projects/flappy/MFA9GZaYFAOm-R5H8g9aYl7o9A-X9LikRme8BzUunZM)
 Flappy Bird là một trò chơi di động cuộn bên có đồ họa 2D theo phong cách cổ điển. Mục tiêu là hướng một con chim đang bay, tên là "Faby", di chuyển liên tục sang phải, giữa các bộ ống giống như Mario. Nếu người chơi chạm vào các đường ống, họ sẽ thua. Faby nhanh chóng bay lên trên mỗi khi người chơi chạm vào màn hình; nếu màn hình không được gõ, Faby sẽ ngã vì trọng lực; mỗi cặp ống mà anh ta điều hướng giữa sẽ kiếm được cho người chơi một điểm. - Từ Wikipedia
 
