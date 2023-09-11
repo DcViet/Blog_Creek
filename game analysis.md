@@ -472,3 +472,8 @@ slide 6: 3. **Quy tắc cách giải quyết**:
    - **Hệ thống đánh giá sao**: Mỗi cấp độ có hệ thống đánh giá dựa trên hiệu suất của người chơi, ví dụ: 1 sao cho hoàn thành cấp độ, 2 sao cho điểm mục tiêu, và 3 sao cho điểm cao.
 slide 7: kết luận
 
+hoạt động section 1: prototype 5 loại game, 
+hoạt động section 2: prototype game caro, 
+-----
+https://cafebiz.vn/lich-su-so-luoc-cua-nganh-cong-nghiep-game-dien-tu-voi-doanh-thu-165-ty-usd-moi-nam-20201202091642103.chn
+
