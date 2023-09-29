@@ -97,3 +97,84 @@ Tất nhiên, chúng ta có thể đi sâu hơn vào việc triển khai ý tư�
 7. **Tạo ra thách thức và sự đổi mới:** Để duy trì sự hứng thú và đồng cảm, đảm bảo rằng phần thưởng không chỉ đơn giản là mục tiêu tĩnh mà còn kết hợp với thách thức và sự đổi mới trong trò chơi. Cảm giác vượt qua khó khăn và tiến lên là một phần quan trọng của cảm xúc đồng cảm.
 
 Nhớ rằng cần cân nhắc giữa việc tạo ra trải nghiệm thú vị và thúc đẩy đồng cảm. Các yếu tố này có thể kết hợp để tạo ra trò chơi hấp dẫn và đáng nhớ.
++----
+slide 1: đặt câu hỏi mở cho các bạn học sinh , như 1 cuộc khảo sát nhỏ về đặc điểm tính cách của người chơi game (ở đây là các bạn học sinh). Hãy cố gắng bám sát vào những yếu tố mà các bạn hs đề cập đến, chúng ta sẽ triển khai chi tiết trong những slide sau). mỗi lớp học sẽ có bối cảnh và cảm xúc khác nhau, bài giảng cung cấp ở mức độ cần đặt được vs nội dung dẫn dắt, các giáo viên có thể tham khảo thêm tài liệu (link) được cung cấp để truyền tải kiến thức tốt hơn. Điều quan trọng của bài học này là thấu hiểu người dùng khác. 
+
+ví dụ: bạn thích chơi trò chơi nào, yếu tố nào trong trò chơi làm bạn hứng thú hay chán? nếu có thể sửa đổi trò chơi yêu thích bạn muốn thay đổi yếu tố, điều gì không? 
+bối cảnh : trong lớp các bạn không thích chơi game, có thể đề cập đến yếu tố game chỉ là 1 hình thức giải trí, trước giờ đã từng chơi trò chơi nào chưa, hoặc có lý do gì làm bạn không thích hay không chơi game. 
+
+slide 2:  Trên slide cung cấp những trò chơi đang được thịnh hành (dựa vào 2 yếu tố: nhiều người chơi, thời gian tồn tại) trước tiên hãy cùng học sinh thảo luận về 1 trong những bức ảnh.
+
+hình ảnh 1: đây là trò chơi gì?- đây là PUBG, PUBG là viết tắt của "PlayerUnknown's Battlegrounds," đó là một trò chơi video trực tuyến thuộc thể loại battle royale. (Trò chơi này được phát triển và phát hành bởi PUBG Corporation, một công ty con của tập đoàn Bluehole, và đã được phát hành lần đầu vào năm 2017.)
+
+Trong PUBG, người chơi sẽ tham gia vào trận chiến sinh tồn trên một hòn đảo hoang dã cùng với một số lượng lớn người chơi khác. Mục tiêu của trò chơi là sống sót và trở thành người cuối cùng hoặc đội chiến thắng. Người chơi sẽ phải tìm kiếm vũ khí, thiết bị và nguồn cung cấp để tự bảo vệ và tiêu diệt đối thủ. Trò chơi nhấn mạnh vào yếu tố chiến thuật, với việc quản lý vị trí, tác động âm thầm, và khả năng bắn sát thương đúng lúc.
+
+PUBG đã trở thành một trong những trò chơi phổ biến nhất trên thế giới và đã tạo nên một cộng đồng game đông đảo. cạnh tranh với các trò chơi battle royale khác như Fortnite và Apex Legends.
+
+hình ảnh 2: đây là trò chơi gì?- đây là Fifa online, FIFA Online là một loạt trò chơi video bóng đá trực tuyến dựa trên giải đấu bóng đá FIFA (Fédération Internationale de Football Association). Các trò chơi này được phát triển và phát hành bởi EA Sports, một phân khúc của Electronic Arts, một công ty sản xuất trò chơi video nổi tiếng.
+
+Các phiên bản của FIFA Online cho phép người chơi tạo và quản lý đội bóng của họ, tham gia vào các trận đấu thú vị và cạnh tranh với người chơi khác trực tuyến. Trong trò chơi này, bạn có thể điều khiển các cầu thủ nổi tiếng và đội bóng hàng đầu từ các giải đấu thực tế như La Liga, Premier League, Serie A và nhiều giải đấu quốc gia khác. 
+
+FIFA Online thường có cơ chế kiểm soát đơn giản để người chơi có thể tham gia một cách dễ dàng. Ngoài ra, trò chơi cũng thường cập nhật thông tin cầu thủ và các tính năng mới để duy trì sự hấp dẫn và thách thức cho người chơi.
+
+Slide 3: Design thinking for game design. 
+Empathy 
+[https://www.interaction-design.org/literature/article/design-thinking-getting-started-with-empathy]
+Đồng cảm là khả năng chúng ta nhìn thế giới qua con mắt của người khác - nhìn thấy những gì họ nhìn thấy, cảm nhận những gì họ cảm nhận và trải nghiệm mọi thứ như họ. Tất nhiên, không ai trong chúng ta có thể trải nghiệm mọi thứ một cách đầy đủ theo cách của người khác, nhưng chúng ta có thể cố gắng tiến gần đến điều này nhất có thể. Chúng ta đạt được trạng thái đồng cảm này khi chúng ta gạt bỏ những định kiến của mình về thế giới và thay vào đó chọn hiểu những ý tưởng, suy nghĩ và nhu cầu của người khác.
+
+
+Tìm hiểu về 4 kiểu người chơi game điển hình
+[https://maac.edu.vn/vi/the-gioi-co-4-kieu-nguoi-choi-nam-bat-tam-ly-gamer-de-thiet-ke-game-best-ever-p311/]
+Với tâm niệm “thắng thua không quan trọng”, chúng ta có thể chơi game chỉ để tận hưởng trải nghiệm đơn giản. Nhưng trong thâm tâm của một vài người lại mong muốn sự chiến thắng và chạy theo thành tích. Đó chính là các Achiever. Achiever cảm thấy sự thôi thúc này nhạy bén hơn những người khác. Họ muốn vượt qua thử thách và đánh bại game.
+Achievers: Kiểu người chơi game theo chủ nghĩa thành tích. Họ chơi game với tâm niệm muốn giành chiến thắng và vượt qua mọi thử thách đánh bại mọi level của game.
+
+Explorers
+Khi Achiever có tư duy hướng đến kết quả hay thành tích, Explorer thích quá trình hơn. Họ là những người tò mò bẩm sinh, và sự tò mò này là vũ khí bí mật để thu hút họ. Khi chơi bất kì game nào, họ sẽ khám phá với mong muốn lật tung mọi viên đá và tận cùng mọi ngõ ngách trong game.
+
+Explorers: kiểu người chơi game theo chủ nghĩa quá trình, họ là những người tò mò bẩm sinh do đó sẽ thích khám phá, lật tung mọi ngóc ngách, kẽ hở trong game
+
+Socializers
+Achiever và Explorer chủ yếu chơi game vì niềm vui của riêng họ, nhưng tương tác xã hội đóng một phần rất lớn trong văn hóa chơi game. Từ các môn thể thao đồng đội sớm nhất cho đến thị trường game online nhiều người chơi đang phát triển mạnh ngày nay, rõ ràng là chơi game không phải là chuyện đơn lẻ.
+
+Socializers: kiểu chủ nghĩa khuấy động họ là những người châm ngòi cho các cuộc thảo luận trong game trở nên sôi động hơn.
+
+Killer chỉ quan tâm đến việc cạnh tranh với những người khác và đánh bại đối thủ của họ, dù đó là bot hay những gamer khác. Vì đặc tính hiếu chiến, Killer còn được xem là những nhân vật gây rối trong game. Họ sẽ thử tất cả mọi cách để vượt qua đối thủ của mình trong game. Nhìn chung, Killer chỉ nhìn thấy một mục tiêu và họ không quan tâm đến việc phải làm thế nào để đạt được mục tiêu đó, họ phải đạt được bằng mọi giá.
+
+Killer kiểu người theo chủ nghĩa chinh chiến họ là những người không quan tâm bất cứ thứ gì ngoài mục tiêu đánh bại đối thủ của mình trong game.
+
+Hầu hết các gamer sẽ hiển thị thuộc tính của cả 4 loại ở mức độ lớn hơn hoặc thấp hơn. Tuy nhiên vẫn có một số trường hợp khác biệt như các dòng game indie thường được thiết kế để đáp ứng một hoặc hai loại người chơi. Hãy suy nghĩ về những gì bạn có thể cải thiện trong trò chơi của mình để làm cho nó trở nên cân bằng hơn. Sau đó, bạn có thể thực hiện một số thử nghiệm với tất cả 4 loại người chơi để xem các phản ứng và kỳ vọng khác nhau của họ đối với game của bạn.
+
+Cuối cùng, hãy nhớ rằng tất cả các người chơi đều có tầm quan trọng như nhau. Là một nhà thiết kế game, bạn thực sự nên nghĩ về 4 kiểu người chơi đó trong giai đoạn thiết kế của mình và tự hỏi bản thân rằng liệu game có đủ tốt để thách thức cả 4 loại người chơi đó hay không?
+
+Slide 4,5: đi theo từng mỗi loại người chơi đã trình bày chúng ta cùng tìm hiểu, trong thiết kế game chúng ta cần làm gì.
+Tất cả các người chơi trong trò chơi của bạn có tầm quan trọng đáng kể, và việc hiểu rõ và đáp ứng nhu cầu của họ là quan trọng để tạo ra trải nghiệm game thú vị và hấp dẫn. Có một số cách bạn có thể xem xét 4 kiểu người chơi khác nhau trong giai đoạn thiết kế của bạn:
+
+1. Người chơi Conqueror (Người chơi Xâm Chiếm):
+   - Loại người chơi này thích thách thức và đấu tranh để đạt được mục tiêu và thành tích cao.
+   - Trong thiết kế, bạn có thể tạo ra các nhiệm vụ phức tạp, mức độ khó cao và bản đồ hoặc trường đấu đòi hỏi kỹ năng cao để thách thức họ.
+   - Cung cấp các phần thưởng và danh hiệu đặc biệt để khuyến khích họ tiếp tục tham gia và hoàn thành thách thức.
+
+2. Người chơi Explorer (Người chơi Khám Phá):
+   - Người chơi loại này yêu thích khám phá thế giới trong trò chơi và khám phá những bí ẩn ẩn sau mỗi góc độ.
+   - Trong thiết kế, bạn có thể tạo ra thế giới mở rộng với nhiều chi tiết, điểm dừng thú vị và hình ảnh đẹp mắt để họ khám phá.
+   - Bạn cũng có thể đặt những nhiệm vụ phụ, nhiệm vụ ẩn hoặc vật phẩm độc đáo để khuyến khích họ tiếp tục khám phá.
+
+3. Người chơi Socializer (Người chơi Xã Hội):
+   - Loại người chơi này yêu thích giao tiếp và tương tác với người chơi khác. Họ thích xây dựng cộng đồng trong trò chơi.
+   - Trong thiết kế, bạn có thể tạo ra các tính năng xã hội như hệ thống chat, gửi lời mời tham gia nhóm, hoặc chế độ chơi đa người để họ có thể kết nối và tương tác với nhau.
+   - Tạo ra hoạt động và sự kiện xã hội để thúc đẩy tương tác giữa các người chơi.
+
+4. Người chơi Achiever (Người chơi Đạt Được):
+   - Người chơi loại này thích hoàn thành nhiệm vụ và thu thập thành tựu trong trò chơi.
+   - Trong thiết kế, bạn có thể cung cấp nhiều mục tiêu, thành tích, và sự phát triển cho họ. Điều này bao gồm việc tạo ra hệ thống thưởng và danh hiệu để họ có thể đạt được.
+   - Hãy cung cấp thêm nhiệm vụ và mục tiêu khó khăn để họ không bao giờ cạn kiệt sự thách thức.
+
+Slide 6: Tuy nhiên sự thấu cảm không đơn giản như vậy, bởi lý do chuyên môn, để phát triển được một trò chơi được cộng đồng, thế giới chấp nhận, các nhà phát triển game không đủ chuyên môn để đánh giá các góc độ cảm xúc của con người, khi phát triển 1 trò chơi , ngoài việc đánh giá khách quan cảm xúc, mong muốn người chơi, các nhà phát triển game sẽ tìm thêm từ nhiều nguồn thông tin có vẻ đáng tin cậy hơn, từ các nghiên cứu về tâm lý, khoa học. 
+
+[http://thuvien.due.udn.vn:8080/dspace/bitstream/TVDHKT/8827/2/000000CVv211S102007012.pdf]
+tất cả những người đã từng chơi game online phải công nhận một điều rằng khi bước vào thế giới game, đều trở thành một con người khác hẳn, trong thế giới trò chơi, ai cũng có cơ hội trở thành một phiên bản khác của chính họ, một anh hùng, hoặc nhân vật có giá trị trong cộng đồng trò chơi
+
+Slide 7: Dựa vào mục tiêu thiết kê và loại trò chơi, trong quá trình thiết kế trò chơi có nhiều loại bản đồ cảm xúc, biểu đồ để giúp chúng ta theo dõi và hiểu cảm xúc người chơi.
+
+slide 8: Cùng thỏa luận về các nội dung được trình bày về game candy crush saga
+
